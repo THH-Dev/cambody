@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  iCVSPlayer.cpp
+  iCVSServerDemo.cpp
+G:\body-cam\API English\API\demo\VS\iCVSServerDemo\iCVSServerDemo.cpp(44,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  iCVSServerDemoDlg.cpp
+  iCVSTalkPlayer.cpp
+  Generating Code...
+  iCVSServerDemo.vcxproj -> G:\body-cam\API English\API\demo\VS\Debug\iCVSServerDemo.exe
